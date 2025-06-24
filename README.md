@@ -24,7 +24,7 @@ De navigatie is consistent en beschikbaar op alle pagina’s via een vaste menub
 De website is live te bekijken via Vercel:
 🔗 [https://het-witte-bolletje.vercel.app](https://het-witte-bolletje.vercel.app)
 
-## ⚙ Technische Stack
+##  Technische Stack
 
 * **Framework:** Next.js 14
 * **Taal:** TypeScript
