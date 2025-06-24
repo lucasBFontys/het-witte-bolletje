@@ -1,5 +1,12 @@
 # Het Witte Bolletje - Website
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge\&logo=pwa\&logoColor=white)
+![Cursor AI](https://img.shields.io/badge/Cursor_AI-FF6D00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)
+
 Een moderne, responsive website voor bakkerij **Het Witte Bolletje**, ontwikkeld met **Next.js** en **Tailwind CSS**. Deze site is gerealiseerd met behulp van **Cursor AI** en is ingericht als een **Progressive Web App (PWA)**.
 
 ## 📌 Projectbeschrijving
