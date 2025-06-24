@@ -1,12 +1,5 @@
 # Het Witte Bolletje - Website
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge\&logo=pwa\&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-FF6D00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)
-
 Een moderne, responsive website voor bakkerij **Het Witte Bolletje**, ontwikkeld met **Next.js** en **Tailwind CSS**. Deze site is gerealiseerd met behulp van **Cursor AI** en is ingericht als een **Progressive Web App (PWA)**.
 
 ## 📌 Projectbeschrijving
@@ -22,7 +15,7 @@ De navigatie is consistent en beschikbaar op alle pagina’s via een vaste menub
 ## 🚀 Live demo
 
 De website is live te bekijken via Vercel:
-🔗 [[https://het-witte-bolletje.vercel.app](https://het-witte-bolletje.vercel.app/)]
+🔗 [https://het-witte-bolletje.vercel.app](https://het-witte-bolletje.vercel.app)
 
 ## ⚙️ Technische Stack
 
@@ -32,9 +25,19 @@ De website is live te bekijken via Vercel:
 * **Functionaliteit:** React 18, Form Handling
 * **Extra:** PWA-functionaliteit, mobiele ondersteuning
 
+## 🧠 Gebruik van Cursor AI
+
+Bij de ontwikkeling is Cursor AI ingezet om de productiviteit te verhogen en consistente code te garanderen. Hierbij zijn o.a. de volgende prompts en regels gebruikt:
+
+### ✨ Voorbeelden van gebruikte prompts
+
+* "Schrijf de HTML-structuur voor een navigatiebalk met drie links."
+* "Stijl deze pagina met CSS zodat het mobielvriendelijk is."
+* "Voeg JavaScript toe dat een alert toont bij het verzenden van het contactformulier."
+
 ### 🕥 Ingestelde ontwikkelregels (Cursor AI rules)
 
-Zie  [[ rules.md](RULES.md)]
+Zie [rules.md](./rules.md) voor de volledige lijst met ontwikkelregels.
 
 ## 🧱 Navigatie
 
@@ -96,7 +99,46 @@ npm run dev
 └── ...                # Overige Next.js bestanden
 ```
 
+## 🧵 Iteratief ontwikkelproces
 
-##  Licentie
+Het project is iteratief opgebouwd met behulp van **Vibe-coding**:
+
+1. Generatie van basis-HTML via Cursor
+2. Tailwind-styling toegepast op componentniveau
+3. Validatie en foutafhandeling toegevoegd via AI-prompts
+4. PWA-functionaliteit geïntegreerd
+
+## 📖 Gebruiksvoorbeelden
+
+* Bezoek de homepage voor algemene info over de bakkerij.
+* Navigeer naar het assortiment om producten te bekijken.
+* Vul het contactformulier in om een bericht te sturen.
+
+## ❓ Veelgestelde vragen (FAQ)
+
+### De site start niet na `npm install`
+
+Controleer of je Node.js v18+ gebruikt. Verwijder eventueel `node_modules` en probeer opnieuw:
+
+```bash
+rm -rf node_modules
+npm install
+```
+
+### Het contactformulier stuurt niets door
+
+Zorg dat je internetverbinding actief is. Deze site gebruikt client-side handling zonder backend.
+
+## 🧾 Changelog
+
+### v1.0.0 – Eerste versie
+
+* Home-, assortiment- en contactpagina opgezet
+* Navigatiebalk toegevoegd
+* Responsieve styling via Tailwind CSS
+* PWA-configuratie geïntegreerd
+* Cursor AI regels en prompts toegevoegd
+
+## 📖 Licentie
 
 MIT-licentie – vrij te gebruiken en aan te passen.
