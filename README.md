@@ -27,7 +27,7 @@ De website is live te bekijken via Vercel:
 
 ### 🕥 Ingestelde ontwikkelregels (Cursor AI rules)
 
-Zie rules.md 
+Zie  [[ rules.md](RULES.md)]
 
 ## 🧱 Navigatie
 
