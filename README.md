@@ -109,7 +109,7 @@ npm run dev
 └── ...                # Overige Next.js bestanden
 ```
 
-## 🧵 Iteratief ontwikkelproces
+##  Iteratief ontwikkelproces
 
 Het project is iteratief opgebouwd met behulp van **Vibe-coding**:
 
