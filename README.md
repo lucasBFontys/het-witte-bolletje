@@ -148,17 +148,17 @@ Zorg dat je internetverbinding actief is. Deze site gebruikt client-side handlin
 * Cursor AI regels en prompts toegevoegd
 
 ### v2.0.0 – Visuele uitbreiding & optimalisatie
-*Nieuwe hero-sectie met sfeerafbeelding, slogan en call-to-action
-*Toevoeging van een features-blok met drie kernwaarden: “Dagelijks vers”, “Ambachtelijk gebakken” en “Bezorging aan huis”
-*Nieuw kleurenschema en typografie geïnspireerd op warme bakkerskleuren (crème, lichtbruin, goud, oranje), met gebruik van Inter en Playfair Display
-*Volledig herontwerp van de assortimentspagina met productkaarten in een overzichtelijk grid (naam, foto, beschrijving, prijs, bestelknop)
-*Gebruik van lokale .json databron voor dynamische productenlijst
-*Toevoeging van een zoekfunctie binnen het assortiment voor verbeterde UX
-*Footer uitgebreid met vier blokken: contactgegevens, openingstijden, menu en links
-*Over ons-pagina toegevoegd met sfeerfoto, tijdlijn, verhaal, statistieken en klantrecensies
-*Contactpagina visueel uitgebreid met modern formulier, contactinformatie en locatiekaart
-*Eerste stap naar interactie: eenvoudige verzend-actie toegevoegd
-*Custom 404-pagina ontworpen in stijl met de site: “Oeps! Deze pagina is nog niet gebakken.”
+* Nieuwe hero-sectie met sfeerafbeelding, slogan en call-to-action
+* Toevoeging van een features-blok met drie kernwaarden: “Dagelijks vers”, “Ambachtelijk gebakken” en “Bezorging aan huis”
+* Nieuw kleurenschema en typografie geïnspireerd op warme bakkerskleuren (crème, lichtbruin, goud, oranje), met gebruik van Inter en Playfair Display
+* Volledig herontwerp van de assortimentspagina met productkaarten in een overzichtelijk grid (naam, foto, beschrijving, prijs, bestelknop)
+* Gebruik van lokale .json databron voor dynamische productenlijst
+* Toevoeging van een zoekfunctie binnen het assortiment voor verbeterde UX
+* Footer uitgebreid met vier blokken: contactgegevens, openingstijden, menu en links
+* Over ons-pagina toegevoegd met sfeerfoto, tijdlijn, verhaal, statistieken en klantrecensies
+* Contactpagina visueel uitgebreid met modern formulier, contactinformatie en locatiekaart
+* Eerste stap naar interactie: eenvoudige verzend-actie toegevoegd
+* Custom 404-pagina ontworpen in stijl met de site: “Oeps! Deze pagina is nog niet gebakken.”
 
 
 
