@@ -1,0 +1,188 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Desembrood",
+            "category": "brood",
+            "price": "3.95",
+            "image": "https://images.unsplash.com/photo-1589367920969-ab8e050bbb04?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Ambachtelijk gebakken desembrood met krokante korst",
+            "tags": [],
+            "bestseller": true
+        },
+        {
+            "id": 2,
+            "name": "Aardbeiengebak",
+            "category": "gebak",
+            "price": "4.50",
+            "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Vers gebak met roomvulling en verse aardbeien",
+            "tags": [
+                "lactosevrij"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Speltbrood",
+            "category": "brood",
+            "price": "3.75",
+            "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "100% speltbrood, rijk aan vezels",
+            "tags": [
+                "vegan"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Chocolade Croissant",
+            "category": "broodjes",
+            "price": "2.25",
+            "image": "https://images.unsplash.com/photo-1530610476181-d83430b64dcd?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Knapperige croissant gevuld met pure chocolade",
+            "tags": [],
+            "bestseller": true
+        },
+        {
+            "id": 5,
+            "name": "Appeltaart",
+            "category": "taarten",
+            "price": "15.95",
+            "image": "/products/appeltaart.jpg",
+            "description": "Traditionele Nederlandse appeltaart met kaneel en rozijnen",
+            "tags": [],
+            "bestseller": true
+        },
+        {
+            "id": 6,
+            "name": "Glutenvrij Meergranenbrood",
+            "category": "brood",
+            "price": "4.50",
+            "image": "https://images.unsplash.com/photo-1598373182133-52452f7691ef?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Vers glutenvrij meergranenbrood met zonnebloempitten",
+            "tags": [
+                "glutenvrij",
+                "lactosevrij"
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Chocolade Muffins",
+            "category": "gebak",
+            "price": "2.75",
+            "image": "https://images.unsplash.com/photo-1607478900766-efe13248b125?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Zachte chocolade muffins met chocolade chunks",
+            "tags": []
+        },
+        {
+            "id": 8,
+            "name": "Krentenbollen",
+            "category": "broodjes",
+            "price": "0.75",
+            "image": "https://images.unsplash.com/photo-1586444248902-2f64eddc13df?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Traditionele krentenbollen met rozijnen",
+            "tags": [],
+            "bestseller": true
+        },
+        {
+            "id": 9,
+            "name": "Vegan Bananenbrood",
+            "category": "brood",
+            "price": "3.95",
+            "image": "https://images.unsplash.com/photo-1632931057819-4eefffa8e007?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "Smaakvol bananenbrood zonder dierlijke producten",
+            "tags": [
+                "vegan",
+                "lactosevrij"
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Slagroomtaart",
+            "category": "taarten",
+            "price": "18.95",
+            "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Luxe slagroomtaart met verse aardbeien",
+            "tags": []
+        },
+        {
+            "id": 11,
+            "name": "Speculaas Koekjes",
+            "category": "koekjes",
+            "price": "3.50",
+            "image": "https://images.unsplash.com/photo-1481390915718-84930b788814?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Traditionele speculaas koekjes met amandelen",
+            "tags": []
+        },
+        {
+            "id": 12,
+            "name": "Sinterklaas Taart",
+            "category": "seizoen",
+            "price": "24.95",
+            "image": "/products/sinterklaastaart.jpg",
+            "description": "Speciale Sinterklaas taart met marsepein en chocolade",
+            "tags": [],
+            "seasonal": true
+        },
+        {
+            "id": 13,
+            "name": "Volkoren Pistolets",
+            "category": "broodjes",
+            "price": "0.65",
+            "image": "https://images.unsplash.com/photo-1597079910443-60c43fc4f729?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Knapperige volkoren pistolets",
+            "tags": [
+                "vegan"
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Glutenvrije Koekjes",
+            "category": "koekjes",
+            "price": "4.25",
+            "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Heerlijke glutenvrije koekjes met chocolade",
+            "tags": [
+                "glutenvrij"
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Kerststol",
+            "category": "seizoen",
+            "price": "12.95",
+            "image": "https://images.unsplash.com/photo-1481391319762-47dff72954d9?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Traditionele kerststol met amandelspijs",
+            "tags": [],
+            "seasonal": true
+        },
+        {
+            "id": 16,
+            "name": "Rozijnenbrood",
+            "category": "brood",
+            "price": "3.25",
+            "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Zacht brood met rozijnen en een vleugje kaneel",
+            "tags": []
+        },
+        {
+            "id": 17,
+            "name": "Chocoladetaart",
+            "category": "taarten",
+            "price": "21.95",
+            "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Rijke chocoladetaart met ganache",
+            "tags": [],
+            "bestseller": true
+        },
+        {
+            "id": 18,
+            "name": "Paasbrood",
+            "category": "seizoen",
+            "price": "11.95",
+            "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+            "description": "Traditioneel paasbrood met amandelspijs",
+            "tags": [],
+            "seasonal": true
+        }
+    ]
+}

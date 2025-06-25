@@ -8,13 +8,17 @@ const config: Config = {
     ],
     theme: {
         extend: {
-            colors: {
-                primary: '#4A5568',
-                secondary: '#E2E8F0',
-                accent: '#ED8936',
-            },
             fontFamily: {
-                sans: ['var(--font-inter)'],
+                sans: ['var(--font-inter)', 'sans-serif'],
+                display: ['var(--font-display)', 'serif'],
+            },
+            colors: {
+                bakery: {
+                    cream: '#FFF8F0',
+                    brown: '#A47551',
+                    gold: '#FFD700',
+                    accent: '#F7C873',
+                },
             },
         },
     },

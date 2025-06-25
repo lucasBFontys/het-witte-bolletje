@@ -6,6 +6,28 @@
     :root {
         --background: 0 0% 100%;
         --foreground: 222.2 84% 4.9%;
+        --font-inter: var(--font-inter);
+        --font-quicksand: var(--font-quicksand);
+    }
+
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        @apply antialiased;
+    }
+}
+
+@layer components {
+    .container {
+        @apply max-w-7xl mx-auto px-4;
+    }
+}
+
+@layer utilities {
+    .text-balance {
+        text-wrap: balance;
     }
 }
 
