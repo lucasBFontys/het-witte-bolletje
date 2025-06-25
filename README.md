@@ -47,6 +47,8 @@ Bij de ontwikkeling is Cursor AI ingezet om de productiviteit te verhogen en con
 
 Zie [rules.md](./RULES.md) voor de volledige lijst met ontwikkelregels.
 
+Welke promts zijn gebruikt voor site dev:  [Promts](./cursor_opzetten_van_react_next_js_struc.md) 
+
 ##  Navigatie
 
 De website bevat drie pagina’s:
