@@ -44,7 +44,7 @@ Bij de ontwikkeling is Cursor AI ingezet om de productiviteit te verhogen en con
 
 ###  Ingestelde ontwikkelregels (Cursor AI rules)
 
-Zie [rules.md](./rules.md) voor de volledige lijst met ontwikkelregels.
+Zie [rules.md](./RULES.md) voor de volledige lijst met ontwikkelregels.
 
 ##  Navigatie
 
