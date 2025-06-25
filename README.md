@@ -4,6 +4,7 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge\&logo=pwa\&logoColor=white)
 ![Cursor AI](https://img.shields.io/badge/Cursor_AI-FF6D00?style=for-the-badge\&logo=firefoxbrowser\&logoColor=white)
 
@@ -145,6 +146,21 @@ Zorg dat je internetverbinding actief is. Deze site gebruikt client-side handlin
 * Responsieve styling via Tailwind CSS
 * PWA-configuratie geïntegreerd
 * Cursor AI regels en prompts toegevoegd
+
+### v2.0.0 – Visuele uitbreiding & optimalisatie
+*Nieuwe hero-sectie met sfeerafbeelding, slogan en call-to-action
+*Toevoeging van een features-blok met drie kernwaarden: “Dagelijks vers”, “Ambachtelijk gebakken” en “Bezorging aan huis”
+*Nieuw kleurenschema en typografie geïnspireerd op warme bakkerskleuren (crème, lichtbruin, goud, oranje), met gebruik van Inter en Playfair Display
+*Volledig herontwerp van de assortimentspagina met productkaarten in een overzichtelijk grid (naam, foto, beschrijving, prijs, bestelknop)
+*Gebruik van lokale .json databron voor dynamische productenlijst
+*Toevoeging van een zoekfunctie binnen het assortiment voor verbeterde UX
+*Footer uitgebreid met vier blokken: contactgegevens, openingstijden, menu en links
+*Over ons-pagina toegevoegd met sfeerfoto, tijdlijn, verhaal, statistieken en klantrecensies
+*Contactpagina visueel uitgebreid met modern formulier, contactinformatie en locatiekaart
+*Eerste stap naar interactie: eenvoudige verzend-actie toegevoegd
+*Custom 404-pagina ontworpen in stijl met de site: “Oeps! Deze pagina is nog niet gebakken.”
+
+
 
 ##  Licentie
 
